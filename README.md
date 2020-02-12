@@ -4,5 +4,5 @@ Knight’s Tour is a sequence of valid moves of a knight on a chessboard in such
 ![Screenshot](8x8.jpg)
 Backtracking of a knight in an 8x8 board.
 
-![BT Screenshot](8 from 0,0 BT.jpg)
+![BT Screenshot](8%20from%200,0%20BT.jpg)
 The application running a knight's tour from (0,0) on an 8x8 board.
