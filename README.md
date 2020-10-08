@@ -4,7 +4,7 @@ Knight’s Tour is a sequence of valid moves of a knight on a chessboard in such
 ## Moves of a Knight
 Moves of a Knight. The knight moves one square in one direction and two squares in the other in any order. Hence, if a knight is on a white square, it will end up on a black square and vice versa.
 
-![Moves of a knight]()
+![Moves of a knight](https://github.com/pranavmswamy/knights-tour/blob/master/knightmoves.png)
 
 ## Algorithms to compute Knight’s Tour
 There are many algorithmic techniques that can be used to compute the Knight’s tour on a chessboards of various dimensions such as brute-force, backtracking, divide and conquer, Warnsdorff’s rule, and also neural networks. This project focuses on two techniques - Warnsdorff’s rule and backtracking, and analyses their time complexity.
