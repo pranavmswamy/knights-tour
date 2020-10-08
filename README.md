@@ -16,11 +16,11 @@ Backtracking of a knight in an 8x8 board.
 ![Screenshot](8x8.jpg)
 
 Backtracking in a 8x8 board.
-![BAcktracking example]()
+![BAcktracking example](https://github.com/pranavmswamy/knights-tour/blob/master/backtracking.png)
 
 ## Warnsdorff’s Rule
 In 1823, H. C. von Warnsdorff proposed a very efficient heuristic for finding the knight’s tour. The rule is as follows – Let an adjacent square be the one on which the knight will land on by making a valid move from the current square. Let the rank of a square on the chessboard be the number of unvisited adjacent squares the knight can move next. The next square in the path is the unvisited adjacent square which has the least rank of all the other unvisited adjacent squares. Ties may or may not be broken at random. Since Warnsdorff’s rule is a heuristic, it cannot guarantee a complete tour starting from
 every square. This is due to the random tie-breaks done while choosing the minimum rank when there is more than one minimum rank in order to traverse the knight to the next square. Warnsdorff’s rule finds a tour in linear time. The time complexity of this heuristic is O(N×N) where N is the dimension of the chessboard.
 
 An example of Warnsdorff's heuristic on a 20x20 board.
-![Warnsdorff's Rule on a 20x20 board]()
+![Warnsdorff's Rule on a 20x20 board](https://github.com/pranavmswamy/knights-tour/blob/master/warnsdorff.png)
