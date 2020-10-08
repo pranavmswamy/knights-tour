@@ -24,3 +24,6 @@ every square. This is due to the random tie-breaks done while choosing the minim
 
 An example of Warnsdorff's heuristic on a 20x20 board.
 ![Warnsdorff's Rule on a 20x20 board](https://github.com/pranavmswamy/knights-tour/blob/master/warnsdorff.png)
+
+## More...
+Paper published on this project accessible [here.](https://link.springer.com/chapter/10.1007/978-981-13-5802-9_16)
